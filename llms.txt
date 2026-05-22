@@ -126,7 +126,7 @@ ng add @po-ui/ng-components
 - [PoStorageService](https://po-ui.io/llms-generated/po-storage-service.md): O PO Storage é uma biblioteca que fornece um serviço para armazenamento de dados no dispositivo local, sendo semelhante
 - [PoSyncService](https://po-ui.io/llms-generated/po-sync-service.md): O `PoSyncService` é utilizado para configurar toda a base de dados que receberá as informações que serão
 - [PoThemeService](https://po-ui.io/llms-generated/po-theme-service.md): O serviço `PoThemeService` permite customizar as cores do tema padrão do `PO-UI` e definir o nível de acessibilidade
-- [PoTourGuideService](https://po-ui.io/llms-generated/po-tour-guide-service.md): Serviço responsável por criar e controlar tours guiados na interface da aplicação.
+- [PoUserGuideService](https://po-ui.io/llms-generated/po-user-guide-service.md): Serviço responsável por criar e controlar tours guiados na interface da aplicação.
 
 ## Interfaces e Modelos
 
@@ -312,14 +312,15 @@ ng add @po-ui/ng-components
 - [PoThemeTokens](https://po-ui.io/llms-generated/po-theme-tokens.md): Interface para o tema da aplicação.
 - [PoToolbarAction](https://po-ui.io/llms-generated/po-toolbar-action.md): Interface para lista de ações do componente.
 - [PoToolbarProfile](https://po-ui.io/llms-generated/po-toolbar-profile.md): Interface que define o perfil do `PoToolbarComponent`.
-- [PoTourGuideEndEvent](https://po-ui.io/llms-generated/po-tour-guide-end-event.md): Interface que descreve o evento emitido pelo `PoTourGuideService` no encerramento da execução de um tour guiado.
-- [PoTourGuideEvent](https://po-ui.io/llms-generated/po-tour-guide-event.md): Interface que descreve o evento emitido pelo `PoTourGuideService` no início da execução de um tour guiado.
-- [PoTourGuideOptions](https://po-ui.io/llms-generated/po-tour-guide-options.md): Interface que descreve as opções globais de configuração do tour guiado executado pelo `PoTourGuideService`.
-- [PoTourGuideStep](https://po-ui.io/llms-generated/po-tour-guide-step.md): Interface que descreve um passo individual do tour guiado executado pelo `PoTourGuideService`.
-- [PoTourGuideStepChangeEvent](https://po-ui.io/llms-generated/po-tour-guide-step-change-event.md): Interface que descreve o evento emitido pelo `PoTourGuideService` a cada mudança de passo durante a execução do tour.
 - [PoTreeViewItem](https://po-ui.io/llms-generated/po-tree-view-item.md): Interface para definição dos itens do componente `po-tree-view`.
 - [PoUploadFileRestrictions](https://po-ui.io/llms-generated/po-upload-file-restrictions.md): Interface que define as restrições dos arquivos a serem selecionados com base em regras predefinidas
 - [PoUploadLiterals](https://po-ui.io/llms-generated/po-upload-literals.md): Interface para definição das literais usadas no `po-upload`.
+- [PoUserGuideEndEvent](https://po-ui.io/llms-generated/po-user-guide-end-event.md): Interface que descreve o evento emitido pelo `PoUserGuideService` no encerramento da execução de um tour guiado.
+- [PoUserGuideLiterals](https://po-ui.io/llms-generated/po-user-guide-literals.md): Interface para definição das literais usadas no `po-user-guide`.
+- [PoUserGuideOptions](https://po-ui.io/llms-generated/po-user-guide-options.md): Interface que descreve as opções globais de configuração do tour guiado executado pelo `PoUserGuideService`.
+- [PoUserGuideStartEvent](https://po-ui.io/llms-generated/po-user-guide-start-event.md): Interface que descreve o evento emitido pelo `PoUserGuideService` no início da execução de um tour guiado.
+- [PoUserGuideStep](https://po-ui.io/llms-generated/po-user-guide-step.md): Interface que descreve um passo individual do tour guiado executado pelo `PoUserGuideService`.
+- [PoUserGuideStepChangeEvent](https://po-ui.io/llms-generated/po-user-guide-step-change-event.md): Interface que descreve o evento emitido pelo `PoUserGuideService` a cada mudança de passo durante a execução do tour.
 - [PoWidgetAvatar](https://po-ui.io/llms-generated/po-widget-avatar.md): Interface para definição do avatar no `po-widget`.
 
 ## Enums
@@ -371,6 +372,8 @@ ng add @po-ui/ng-components
 - [PoTimepickerModelFormat](https://po-ui.io/llms-generated/po-timepicker-model-format.md): Enum* que define o padrão de formatação do model de saída do timepicker.
 - [PoTimerFormat](https://po-ui.io/llms-generated/po-timer-format.md): Enum para definição do formato de exibição do timer.
 - [PoToasterType](https://po-ui.io/llms-generated/po-toaster-type.md): Define os tipos possíveis para o `PoToasterComponent`.
+- [PoUserGuideAlignment](https://po-ui.io/llms-generated/po-user-guide-alignment.md): Enum* que define o alinhamento do popover do tour ao longo do eixo da posição configurada,
+- [PoUserGuidePosition](https://po-ui.io/llms-generated/po-user-guide-position.md): Enum* que define a posição preferida do popover do tour em relação ao elemento destacado,
 
 ## Guias
 

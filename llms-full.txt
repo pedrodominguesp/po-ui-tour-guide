@@ -9797,20 +9797,20 @@ Define o nível de acessibilidade para um tema já ativo.
 
 ---
 
-# PoTourGuideService
+# PoUserGuideService
 
 **Tipo:** Serviço
 **Pacote:** `@po-ui/ng-components`
-**Referência:** https://po-ui.io/documentation/po-tour-guide-service
+**Referência:** https://po-ui.io/documentation/po-user-guide-service
 
 Serviço responsável por criar e controlar tours guiados na interface da aplicação.
 
-O `PoTourGuideService` permite apresentar uma sequência de passos visuais para orientar
+O `PoUserGuideService` permite apresentar uma sequência de passos visuais para orientar
 o usuário durante o uso de uma tela, funcionalidade ou fluxo específico do sistema.
 Ele pode ser utilizado, por exemplo, para apresentar uma nova funcionalidade, guiar um
 primeiro acesso ou destacar pontos importantes da interface.
 
-O serviço centraliza a configuração do tour, incluindo:
+O serviço centraliza a configuração do guia do usuário, incluindo:
 
 - os passos que serão exibidos;
 - as opções gerais de comportamento;
@@ -9820,12 +9820,12 @@ O serviço centraliza a configuração do tour, incluindo:
 A partir dele, a aplicação pode iniciar, acompanhar e reagir à execução do tour por meio
 dos eventos públicos `tourStartServiço responsável por criar e controlar tours guiados na interface da aplicação.
 
-O `PoTourGuideService` permite apresentar uma sequência de passos visuais para orientar
+O `PoUserGuideService` permite apresentar uma sequência de passos visuais para orientar
 o usuário durante o uso de uma tela, funcionalidade ou fluxo específico do sistema.
 Ele pode ser utilizado, por exemplo, para apresentar uma nova funcionalidade, guiar um
 primeiro acesso ou destacar pontos importantes da interface.
 
-O serviço centraliza a configuração do tour, incluindo:
+O serviço centraliza a configuração do guia do usuário, incluindo:
 
 - os passos que serão exibidos;
 - as opções gerais de comportamento;
@@ -9835,12 +9835,12 @@ O serviço centraliza a configuração do tour, incluindo:
 A partir dele, a aplicação pode iniciar, acompanhar e reagir à execução do tour por meio
 dos eventos públicos , `stepChangeServiço responsável por criar e controlar tours guiados na interface da aplicação.
 
-O `PoTourGuideService` permite apresentar uma sequência de passos visuais para orientar
+O `PoUserGuideService` permite apresentar uma sequência de passos visuais para orientar
 o usuário durante o uso de uma tela, funcionalidade ou fluxo específico do sistema.
 Ele pode ser utilizado, por exemplo, para apresentar uma nova funcionalidade, guiar um
 primeiro acesso ou destacar pontos importantes da interface.
 
-O serviço centraliza a configuração do tour, incluindo:
+O serviço centraliza a configuração do guia do usuário, incluindo:
 
 - os passos que serão exibidos;
 - as opções gerais de comportamento;
@@ -9850,12 +9850,12 @@ O serviço centraliza a configuração do tour, incluindo:
 A partir dele, a aplicação pode iniciar, acompanhar e reagir à execução do tour por meio
 dos eventos públicos `tourStartServiço responsável por criar e controlar tours guiados na interface da aplicação.
 
-O `PoTourGuideService` permite apresentar uma sequência de passos visuais para orientar
+O `PoUserGuideService` permite apresentar uma sequência de passos visuais para orientar
 o usuário durante o uso de uma tela, funcionalidade ou fluxo específico do sistema.
 Ele pode ser utilizado, por exemplo, para apresentar uma nova funcionalidade, guiar um
 primeiro acesso ou destacar pontos importantes da interface.
 
-O serviço centraliza a configuração do tour, incluindo:
+O serviço centraliza a configuração do guia do usuário, incluindo:
 
 - os passos que serão exibidos;
 - as opções gerais de comportamento;
@@ -9865,12 +9865,12 @@ O serviço centraliza a configuração do tour, incluindo:
 A partir dele, a aplicação pode iniciar, acompanhar e reagir à execução do tour por meio
 dos eventos públicos ,  e `tourEndServiço responsável por criar e controlar tours guiados na interface da aplicação.
 
-O `PoTourGuideService` permite apresentar uma sequência de passos visuais para orientar
+O `PoUserGuideService` permite apresentar uma sequência de passos visuais para orientar
 o usuário durante o uso de uma tela, funcionalidade ou fluxo específico do sistema.
 Ele pode ser utilizado, por exemplo, para apresentar uma nova funcionalidade, guiar um
 primeiro acesso ou destacar pontos importantes da interface.
 
-O serviço centraliza a configuração do tour, incluindo:
+O serviço centraliza a configuração do guia do usuário, incluindo:
 
 - os passos que serão exibidos;
 - as opções gerais de comportamento;
@@ -9880,12 +9880,12 @@ O serviço centraliza a configuração do tour, incluindo:
 A partir dele, a aplicação pode iniciar, acompanhar e reagir à execução do tour por meio
 dos eventos públicos `tourStartServiço responsável por criar e controlar tours guiados na interface da aplicação.
 
-O `PoTourGuideService` permite apresentar uma sequência de passos visuais para orientar
+O `PoUserGuideService` permite apresentar uma sequência de passos visuais para orientar
 o usuário durante o uso de uma tela, funcionalidade ou fluxo específico do sistema.
 Ele pode ser utilizado, por exemplo, para apresentar uma nova funcionalidade, guiar um
 primeiro acesso ou destacar pontos importantes da interface.
 
-O serviço centraliza a configuração do tour, incluindo:
+O serviço centraliza a configuração do guia do usuário, incluindo:
 
 - os passos que serão exibidos;
 - as opções gerais de comportamento;
@@ -9895,12 +9895,12 @@ O serviço centraliza a configuração do tour, incluindo:
 A partir dele, a aplicação pode iniciar, acompanhar e reagir à execução do tour por meio
 dos eventos públicos , `stepChangeServiço responsável por criar e controlar tours guiados na interface da aplicação.
 
-O `PoTourGuideService` permite apresentar uma sequência de passos visuais para orientar
+O `PoUserGuideService` permite apresentar uma sequência de passos visuais para orientar
 o usuário durante o uso de uma tela, funcionalidade ou fluxo específico do sistema.
 Ele pode ser utilizado, por exemplo, para apresentar uma nova funcionalidade, guiar um
 primeiro acesso ou destacar pontos importantes da interface.
 
-O serviço centraliza a configuração do tour, incluindo:
+O serviço centraliza a configuração do guia do usuário, incluindo:
 
 - os passos que serão exibidos;
 - as opções gerais de comportamento;
@@ -9910,12 +9910,12 @@ O serviço centraliza a configuração do tour, incluindo:
 A partir dele, a aplicação pode iniciar, acompanhar e reagir à execução do tour por meio
 dos eventos públicos `tourStartServiço responsável por criar e controlar tours guiados na interface da aplicação.
 
-O `PoTourGuideService` permite apresentar uma sequência de passos visuais para orientar
+O `PoUserGuideService` permite apresentar uma sequência de passos visuais para orientar
 o usuário durante o uso de uma tela, funcionalidade ou fluxo específico do sistema.
 Ele pode ser utilizado, por exemplo, para apresentar uma nova funcionalidade, guiar um
 primeiro acesso ou destacar pontos importantes da interface.
 
-O serviço centraliza a configuração do tour, incluindo:
+O serviço centraliza a configuração do guia do usuário, incluindo:
 
 - os passos que serão exibidos;
 - as opções gerais de comportamento;
@@ -9937,14 +9937,14 @@ passos do tour, ajusta opções globais e dispara a execução em uma única exp
 
 ```typescript
 import { Component } from '@angular/core';
-import { PoTourGuideService } from '@po-ui/ng-components';
+import { PoUserGuideService } from '@po-ui/ng-components';
 
 @Component({ selector: 'app-onboarding', templateUrl: './onboarding.component.html' })
 export class OnboardingComponent {
-  constructor(private poTourGuide: PoTourGuideService) {}
+  constructor(private PoUserGuide: PoUserGuideService) {}
 
   startTour(): void {
-    this.poTourGuide
+    this.PoUserGuide
       .setSteps([
         { element: '#header', title: 'Bem-vindo!', content: 'Esta é a barra superior.' },
         { element: '.po-menu', title: 'Menu', content: 'Acesse aqui as funcionalidades do sistema.' },
@@ -9961,16 +9961,16 @@ export class OnboardingComponent {
 O PO UI sanitiza o conteúdo HTML informado em `step.content` antes de exibi-lo no
 popover* do tour, ajudando a prevenir vulnerabilidades de *Cross-Site Scripting* (XSS).
 
-A mesma proteção é aplicada aos *labels* definidos em `PoTourGuideStep` e
-`PoTourGuideOptions` quando construídos dinamicamente.
+A mesma proteção é aplicada aos *labels* definidos em `PoUserGuideStep` e
+`PoUserGuideOptions` quando construídos dinamicamente.
 
 Ainda assim, recomenda-se validar conteúdos vindos de fontes não confiáveis, como entrada
 do usuário, APIs externas ou *query strings*, preservando a segurança desde a origem dos dados.
 
 #### Tokens customizáveis
 
-É possível alterar a aparência do *popover* renderizado pelo `PoTourGuideService` através dos tokens
-(CSS) consumidos pelo arquivo `po-tour-guide.css` distribuído via `@po-ui/style`.
+É possível alterar a aparência do *popover* renderizado pelo `PoUserGuideService` através dos tokens
+(CSS) consumidos pelo arquivo `po-user-guide.css` distribuído via `@po-ui/style`.
 
 > Para maiores informações, acesse o guia [Personalizando o Tema Padrão com Tokens CSS](https://po-ui.io/guides/theme-customization).
 
@@ -14532,206 +14532,6 @@ Interface que define o perfil do `PoToolbarComponent`.
 
 ---
 
-# PoTourGuideEndEvent
-
-**Tipo:** Interface / Modelo
-**Pacote:** `@po-ui/ng-components`
-**Referência:** https://po-ui.io/documentation/po-tour-guide-end-event
-
-Interface que descreve o evento emitido pelo `PoTourGuideService` no encerramento da execução de um tour guiado.
-
-É publicado no `Observable` `PoTourGuideService.tourEndInterface que descreve o evento emitido pelo `PoTourGuideService` no encerramento da execução de um tour guiado.
-
-É publicado no `Observable`  exatamente uma vez por execução, sempre após a
-emissão do último `PoTourGuideStepChangeEvent` em `PoTourGuideService.stepChangeInterface que descreve o evento emitido pelo `PoTourGuideService` no encerramento da execução de um tour guiado.
-
-É publicado no `Observable` `PoTourGuideService.tourEndInterface que descreve o evento emitido pelo `PoTourGuideService` no encerramento da execução de um tour guiado.
-
-É publicado no `Observable`  exatamente uma vez por execução, sempre após a
-emissão do último `PoTourGuideStepChangeEvent` em  e após a limpeza do estado
-interno do serviço.
-
-As aplicações consumidoras podem assinar `tourEndInterface que descreve o evento emitido pelo `PoTourGuideService` no encerramento da execução de um tour guiado.
-
-É publicado no `Observable` `PoTourGuideService.tourEndInterface que descreve o evento emitido pelo `PoTourGuideService` no encerramento da execução de um tour guiado.
-
-É publicado no `Observable`  exatamente uma vez por execução, sempre após a
-emissão do último `PoTourGuideStepChangeEvent` em `PoTourGuideService.stepChangeInterface que descreve o evento emitido pelo `PoTourGuideService` no encerramento da execução de um tour guiado.
-
-É publicado no `Observable` `PoTourGuideService.tourEndInterface que descreve o evento emitido pelo `PoTourGuideService` no encerramento da execução de um tour guiado.
-
-É publicado no `Observable`  exatamente uma vez por execução, sempre após a
-emissão do último `PoTourGuideStepChangeEvent` em  e após a limpeza do estado
-interno do serviço.
-
-As aplicações consumidoras podem assinar  para registrar telemetria de conclusão ou de
-abandono do tour, executar limpezas de UI ou disparar lógica de negócio dependente do encerramento
-da jornada do usuário.
-
-## Propriedades
-
-| Propriedade | Tipo | Opcional | Descrição |
-|---|---|---|---|
-| `lastIndex` | `number` | não | Índice, com base zero, do último passo ativo antes do encerramento do tour. |
-| `reason` | `'completed' | 'closed' | 'destroyed'` | não | Motivo do encerramento do tour. |
-| `totalSteps` | `number` | não | Total de passos configurados no tour, equivalente ao tamanho do array passado a `PoTourGuideService.setSteps`. |
-
-
----
-
-# PoTourGuideEvent
-
-**Tipo:** Interface / Modelo
-**Pacote:** `@po-ui/ng-components`
-**Referência:** https://po-ui.io/documentation/po-tour-guide-event
-
-Interface que descreve o evento emitido pelo `PoTourGuideService` no início da execução de um tour guiado.
-
-É publicado no `Observable` `PoTourGuideService.tourStartInterface que descreve o evento emitido pelo `PoTourGuideService` no início da execução de um tour guiado.
-
-É publicado no `Observable`  exatamente uma vez por execução, imediatamente
-após a configuração da instância do tour e antes da emissão do primeiro `PoTourGuideStepChangeEvent` em
-`PoTourGuideService.stepChangeInterface que descreve o evento emitido pelo `PoTourGuideService` no início da execução de um tour guiado.
-
-É publicado no `Observable` `PoTourGuideService.tourStartInterface que descreve o evento emitido pelo `PoTourGuideService` no início da execução de um tour guiado.
-
-É publicado no `Observable`  exatamente uma vez por execução, imediatamente
-após a configuração da instância do tour e antes da emissão do primeiro `PoTourGuideStepChangeEvent` em
-.
-
-As aplicações consumidoras podem assinar `tourStartInterface que descreve o evento emitido pelo `PoTourGuideService` no início da execução de um tour guiado.
-
-É publicado no `Observable` `PoTourGuideService.tourStartInterface que descreve o evento emitido pelo `PoTourGuideService` no início da execução de um tour guiado.
-
-É publicado no `Observable`  exatamente uma vez por execução, imediatamente
-após a configuração da instância do tour e antes da emissão do primeiro `PoTourGuideStepChangeEvent` em
-`PoTourGuideService.stepChangeInterface que descreve o evento emitido pelo `PoTourGuideService` no início da execução de um tour guiado.
-
-É publicado no `Observable` `PoTourGuideService.tourStartInterface que descreve o evento emitido pelo `PoTourGuideService` no início da execução de um tour guiado.
-
-É publicado no `Observable`  exatamente uma vez por execução, imediatamente
-após a configuração da instância do tour e antes da emissão do primeiro `PoTourGuideStepChangeEvent` em
-.
-
-As aplicações consumidoras podem assinar  para registrar telemetria do início do tour,
-exibir mensagens contextuais ou disparar lógica de negócio dependente do início da jornada do usuário.
-
-## Propriedades
-
-| Propriedade | Tipo | Opcional | Descrição |
-|---|---|---|---|
-| `startIndex` | `number` | não | Índice do passo inicial do tour, com base zero. |
-| `timestamp` | `number` | não | Marca de tempo, em milissegundos, do momento de emissão do evento, obtida a partir de `Date.now()`. |
-| `totalSteps` | `number` | não | Total de passos configurados no tour, equivalente ao tamanho do array passado a `PoTourGuideService.setSteps`. |
-
-
----
-
-# PoTourGuideOptions
-
-**Tipo:** Interface / Modelo
-**Pacote:** `@po-ui/ng-components`
-**Referência:** https://po-ui.io/documentation/po-tour-guide-options
-
-Interface que descreve as opções globais de configuração do tour guiado executado pelo `PoTourGuideService`.
-
-Os valores informados são aplicados a toda a execução do tour e podem ser sobrescritos pontualmente
-em cada `PoTourGuideStep` através das propriedades específicas de *labels* (`nextLabel`, `previousLabel`,
-`doneLabel`) — neste caso, o valor declarado no passo prevalece sobre o valor declarado nas opções globais.
-
-Todas as propriedades são opcionais. Quando omitidas, são aplicados os valores padrão do PO UI documentados
-em cada propriedade através da anotação `@default`.
-
-## Propriedades
-
-| Propriedade | Tipo | Opcional | Descrição |
-|---|---|---|---|
-| `allowClose` | `boolean` | sim | Permite que o usuário encerre o tour clicando fora do popover ou utilizando o botão "Fechar" (X). |
-| `closeLabel` | `string` | sim | Label* padrão do botão "Fechar" (X) exibido no canto do popover do tour. |
-| `doneLabel` | `string` | sim | Label* padrão do botão "Finalizar" aplicado ao último passo do tour. |
-| `keyboardControl` | `boolean` | sim | Habilita o controle do tour por teclado. |
-| `nextLabel` | `string` | sim | Label* padrão do botão "Próximo" aplicado a todos os passos do tour. |
-| `onStepChange` | `(event: PoTourGuideStepChangeEvent) => void` | sim | Função de *callback* invocada a cada mudança de passo durante a execução do tour. |
-| `overlayOpacity` | `number` | sim | Define a opacidade do *overlay* que escurece a página ao redor do elemento destacado. |
-| `popoverClass` | `string` | sim | Classe CSS adicional aplicada ao elemento raiz do popover do tour. |
-| `previousLabel` | `string` | sim | Label* padrão do botão "Anterior" aplicado a todos os passos do tour. |
-| `progressTemplate` | `string` | sim | Template do texto de progresso exibido no popover quando `showProgress` está habilitado. |
-| `showProgress` | `boolean` | sim | Exibe o indicador textual de progresso do tour no popover (por exemplo, `1 de 5`). |
-
-
----
-
-# PoTourGuideStep
-
-**Tipo:** Interface / Modelo
-**Pacote:** `@po-ui/ng-components`
-**Referência:** https://po-ui.io/documentation/po-tour-guide-step
-
-Interface que descreve um passo individual do tour guiado executado pelo `PoTourGuideService`.
-
-Cada passo representa uma parada do tour, com um elemento opcional a ser destacado na página,
-conteúdo textual ou em HTML, configurações de posicionamento do popover, *labels* específicos
-dos botões de navegação e *hooks* de ciclo de vida do passo.
-
-> A propriedade `content` é a única obrigatória e corresponde ao corpo do popover apresentado ao usuário.
-
-## Propriedades
-
-| Propriedade | Tipo | Opcional | Descrição |
-|---|---|---|---|
-| `align` | `PoTourGuideAlignment` | sim | Alinhamento do popover ao longo do eixo da posição configurada em `position`. |
-| `content` | `string` | não | Conteúdo principal do passo, exibido no corpo do popover. Aceita texto puro ou HTML. |
-| `doneLabel` | `string` | sim | Sobrescreve o *label* do botão "Finalizar" exclusivamente para este passo. |
-| `element` | `string | HTMLElement` | sim | Elemento da página que o passo deve destacar. |
-| `nextLabel` | `string` | sim | Sobrescreve o *label* do botão "Próximo" exclusivamente para este passo. |
-| `onBeforeHighlight` | `(step: PoTourGuideStep, index: number) => void` | sim | Hook* executado imediatamente antes de o passo ser destacado na página, sincronamente à transição. |
-| `onDeselected` | `(step: PoTourGuideStep, index: number) => void` | sim | Hook* executado quando o passo deixa de estar ativo, seja por avanço, retrocesso ou encerramento do tour. |
-| `onHighlighted` | `(step: PoTourGuideStep, index: number) => void` | sim | Hook* executado imediatamente após o passo ser destacado na página. |
-| `position` | `PoTourGuidePosition` | sim | Posição preferida do popover em relação ao elemento destacado. |
-| `previousLabel` | `string` | sim | Sobrescreve o *label* do botão "Anterior" exclusivamente para este passo. |
-| `showButtons` | `Array<'next' | 'previous' | 'close'>` | sim | Lista que filtra quais botões de navegação devem ser exibidos no popover deste passo. |
-| `title` | `string` | sim | Título exibido no cabeçalho do popover do passo. |
-
-
----
-
-# PoTourGuideStepChangeEvent
-
-**Tipo:** Interface / Modelo
-**Pacote:** `@po-ui/ng-components`
-**Referência:** https://po-ui.io/documentation/po-tour-guide-step-change-event
-
-Interface que descreve o evento emitido pelo `PoTourGuideService` a cada mudança de passo durante a execução do tour.
-
-É publicado no `Observable` `PoTourGuideService.stepChangeInterface que descreve o evento emitido pelo `PoTourGuideService` a cada mudança de passo durante a execução do tour.
-
-É publicado no `Observable`  toda vez que o passo ativo é alterado, seja por
-interação do usuário (cliques nos botões "Próximo"/"Anterior" ou navegação por teclado) ou por chamada
-programática aos métodos `next`, `previous`, `goTo` e `start` do `PoTourGuideService`.
-
-As aplicações consumidoras podem assinar `stepChangeInterface que descreve o evento emitido pelo `PoTourGuideService` a cada mudança de passo durante a execução do tour.
-
-É publicado no `Observable` `PoTourGuideService.stepChangeInterface que descreve o evento emitido pelo `PoTourGuideService` a cada mudança de passo durante a execução do tour.
-
-É publicado no `Observable`  toda vez que o passo ativo é alterado, seja por
-interação do usuário (cliques nos botões "Próximo"/"Anterior" ou navegação por teclado) ou por chamada
-programática aos métodos `next`, `previous`, `goTo` e `start` do `PoTourGuideService`.
-
-As aplicações consumidoras podem assinar  para reagir à navegação do usuário, atualizar a
-UI conforme o passo ativo, registrar telemetria de progresso ou disparar lógica de negócio contextual.
-
-## Propriedades
-
-| Propriedade | Tipo | Opcional | Descrição |
-|---|---|---|---|
-| `direction` | `'next' | 'previous' | 'goto' | 'start'` | não | Direção da transição que originou a mudança de passo. |
-| `index` | `number` | não | Índice, com base zero, do passo ativo após a transição. |
-| `step` | `PoTourGuideStep` | não | Passo do tour que se tornou ativo após a transição. |
-| `totalSteps` | `number` | não | Total de passos configurados no tour, equivalente ao tamanho do array passado a `PoTourGuideService.setSteps`. |
-
-
----
-
 # PoTreeViewItem
 
 **Tipo:** Interface / Modelo
@@ -14809,6 +14609,229 @@ Interface para definição das literais usadas no `po-upload`.
 | `thumbnail` | `string` | sim | Texto do leitor da miniatura da imagem. |
 | `tryAgain` | `string` | sim | Texto de Tente novamente ao ocorrer erro ao enviar. |
 | `uploadingText` | `string` | sim | Texto a ser exibido no container de informação quando o estado for enviando. |
+
+
+---
+
+# PoUserGuideEndEvent
+
+**Tipo:** Interface / Modelo
+**Pacote:** `@po-ui/ng-components`
+**Referência:** https://po-ui.io/documentation/po-user-guide-end-event
+
+Interface que descreve o evento emitido pelo `PoUserGuideService` no encerramento da execução de um tour guiado.
+
+É publicado no `Observable` `PoUserGuideService.tourEndInterface que descreve o evento emitido pelo `PoUserGuideService` no encerramento da execução de um tour guiado.
+
+É publicado no `Observable`  exatamente uma vez por execução, sempre após a
+emissão do último `PoUserGuideStepChangeEvent` em `PoUserGuideService.stepChangeInterface que descreve o evento emitido pelo `PoUserGuideService` no encerramento da execução de um tour guiado.
+
+É publicado no `Observable` `PoUserGuideService.tourEndInterface que descreve o evento emitido pelo `PoUserGuideService` no encerramento da execução de um tour guiado.
+
+É publicado no `Observable`  exatamente uma vez por execução, sempre após a
+emissão do último `PoUserGuideStepChangeEvent` em  e após a limpeza do estado
+interno do serviço.
+
+As aplicações consumidoras podem assinar `tourEndInterface que descreve o evento emitido pelo `PoUserGuideService` no encerramento da execução de um tour guiado.
+
+É publicado no `Observable` `PoUserGuideService.tourEndInterface que descreve o evento emitido pelo `PoUserGuideService` no encerramento da execução de um tour guiado.
+
+É publicado no `Observable`  exatamente uma vez por execução, sempre após a
+emissão do último `PoUserGuideStepChangeEvent` em `PoUserGuideService.stepChangeInterface que descreve o evento emitido pelo `PoUserGuideService` no encerramento da execução de um tour guiado.
+
+É publicado no `Observable` `PoUserGuideService.tourEndInterface que descreve o evento emitido pelo `PoUserGuideService` no encerramento da execução de um tour guiado.
+
+É publicado no `Observable`  exatamente uma vez por execução, sempre após a
+emissão do último `PoUserGuideStepChangeEvent` em  e após a limpeza do estado
+interno do serviço.
+
+As aplicações consumidoras podem assinar  para registrar telemetria de conclusão ou de
+abandono do tour, executar limpezas de UI ou disparar lógica de negócio dependente do encerramento
+da jornada do usuário.
+
+## Propriedades
+
+| Propriedade | Tipo | Opcional | Descrição |
+|---|---|---|---|
+| `lastIndex` | `number` | não | Índice, com base zero, do último passo ativo antes do encerramento do tour. |
+| `reason` | `'completed' | 'closed' | 'destroyed'` | não | Motivo do encerramento do tour. |
+| `totalSteps` | `number` | não | Total de passos configurados no tour, equivalente ao tamanho do array passado a `PoUserGuideService.setSteps`. |
+
+
+---
+
+# PoUserGuideLiterals
+
+**Tipo:** Interface / Modelo
+**Pacote:** `@po-ui/ng-components`
+**Referência:** https://po-ui.io/documentation/po-user-guide-literals
+
+Interface para definição das literais usadas no `po-user-guide`.
+
+## Propriedades
+
+| Propriedade | Tipo | Opcional | Descrição |
+|---|---|---|---|
+| `close` | `string` | sim | Label padrão do botão "Fechar" (X) exibido no canto do popover do tour. |
+| `done` | `string` | sim | Label padrão do botão "Finalizar" aplicado ao último passo do tour. |
+| `next` | `string` | sim | Label padrão do botão "Próximo" aplicado a todos os passos do tour. |
+| `previous` | `string` | sim | Label padrão do botão "Anterior" aplicado a todos os passos do tour. |
+| `progressTemplate` | `string` | sim | Template padrão do texto de progresso exibido no popover (ex: `{ {current} } de { {total} }`). |
+
+
+---
+
+# PoUserGuideOptions
+
+**Tipo:** Interface / Modelo
+**Pacote:** `@po-ui/ng-components`
+**Referência:** https://po-ui.io/documentation/po-user-guide-options
+
+Interface que descreve as opções globais de configuração do tour guiado executado pelo `PoUserGuideService`.
+
+Os valores informados são aplicados a toda a execução do tour e podem ser sobrescritos pontualmente
+em cada `PoUserGuideStep` através das propriedades específicas de *labels* (`nextLabel`, `previousLabel`,
+`doneLabel`) — neste caso, o valor declarado no passo prevalece sobre o valor declarado nas opções globais.
+
+Todas as propriedades são opcionais. Quando omitidas, são aplicados os valores padrão do PO UI documentados
+em cada propriedade através da anotação `@default`.
+
+## Propriedades
+
+| Propriedade | Tipo | Opcional | Descrição |
+|---|---|---|---|
+| `allowClose` | `boolean` | sim | Permite que o usuário encerre o tour clicando fora do popover ou utilizando o botão "Fechar" (X). |
+| `allowScroll` | `boolean` | sim | Quando `true`, mantém a rolagem da página totalmente livre durante o tour. |
+| `closeLabel` | `string` | sim | Label* padrão do botão "Fechar" (X) exibido no canto do popover do tour. |
+| `doneLabel` | `string` | sim | Label* padrão do botão "Finalizar" aplicado ao último passo do tour. |
+| `keyboardControl` | `boolean` | sim | Habilita o controle do tour por teclado. |
+| `literals` | `PoUserGuideLiterals` | sim | Objeto com as literais usadas no `po-user-guide`. |
+| `nextLabel` | `string` | sim | Label* padrão do botão "Próximo" aplicado a todos os passos do tour. |
+| `onStepChange` | `(event: PoUserGuideStepChangeEvent) => void` | sim | Função de *callback* invocada a cada mudança de passo durante a execução do tour. |
+| `overlayOpacity` | `number` | sim | Define a opacidade do *overlay* que escurece a página ao redor do elemento destacado. |
+| `popoverClass` | `string` | sim | Classe CSS adicional aplicada ao elemento raiz do popover do tour. |
+| `previousLabel` | `string` | sim | Label* padrão do botão "Anterior" aplicado a todos os passos do tour. |
+| `progressTemplate` | `string` | sim | Template do texto de progresso exibido no popover quando `showProgress` está habilitado. |
+| `showProgress` | `boolean` | sim | Exibe o indicador textual de progresso do tour no popover (por exemplo, `1 de 5`). |
+
+
+---
+
+# PoUserGuideStartEvent
+
+**Tipo:** Interface / Modelo
+**Pacote:** `@po-ui/ng-components`
+**Referência:** https://po-ui.io/documentation/po-user-guide-start-event
+
+Interface que descreve o evento emitido pelo `PoUserGuideService` no início da execução de um tour guiado.
+
+É publicado no `Observable` `PoUserGuideService.tourStartInterface que descreve o evento emitido pelo `PoUserGuideService` no início da execução de um tour guiado.
+
+É publicado no `Observable`  exatamente uma vez por execução, imediatamente
+após a configuração da instância do tour e antes da emissão do primeiro `PoUserGuideStepChangeEvent` em
+`PoUserGuideService.stepChangeInterface que descreve o evento emitido pelo `PoUserGuideService` no início da execução de um tour guiado.
+
+É publicado no `Observable` `PoUserGuideService.tourStartInterface que descreve o evento emitido pelo `PoUserGuideService` no início da execução de um tour guiado.
+
+É publicado no `Observable`  exatamente uma vez por execução, imediatamente
+após a configuração da instância do tour e antes da emissão do primeiro `PoUserGuideStepChangeEvent` em
+.
+
+As aplicações consumidoras podem assinar `tourStartInterface que descreve o evento emitido pelo `PoUserGuideService` no início da execução de um tour guiado.
+
+É publicado no `Observable` `PoUserGuideService.tourStartInterface que descreve o evento emitido pelo `PoUserGuideService` no início da execução de um tour guiado.
+
+É publicado no `Observable`  exatamente uma vez por execução, imediatamente
+após a configuração da instância do tour e antes da emissão do primeiro `PoUserGuideStepChangeEvent` em
+`PoUserGuideService.stepChangeInterface que descreve o evento emitido pelo `PoUserGuideService` no início da execução de um tour guiado.
+
+É publicado no `Observable` `PoUserGuideService.tourStartInterface que descreve o evento emitido pelo `PoUserGuideService` no início da execução de um tour guiado.
+
+É publicado no `Observable`  exatamente uma vez por execução, imediatamente
+após a configuração da instância do tour e antes da emissão do primeiro `PoUserGuideStepChangeEvent` em
+.
+
+As aplicações consumidoras podem assinar  para registrar telemetria do início do tour,
+exibir mensagens contextuais ou disparar lógica de negócio dependente do início da jornada do usuário.
+
+## Propriedades
+
+| Propriedade | Tipo | Opcional | Descrição |
+|---|---|---|---|
+| `startIndex` | `number` | não | Índice do passo inicial do tour, com base zero. |
+| `timestamp` | `number` | não | Marca de tempo, em milissegundos, do momento de emissão do evento, obtida a partir de `Date.now()`. |
+| `totalSteps` | `number` | não | Total de passos configurados no tour, equivalente ao tamanho do array passado a `PoUserGuideService.setSteps`. |
+
+
+---
+
+# PoUserGuideStep
+
+**Tipo:** Interface / Modelo
+**Pacote:** `@po-ui/ng-components`
+**Referência:** https://po-ui.io/documentation/po-user-guide-step
+
+Interface que descreve um passo individual do tour guiado executado pelo `PoUserGuideService`.
+
+Cada passo representa uma parada do tour, com um elemento opcional a ser destacado na página,
+conteúdo textual ou em HTML, configurações de posicionamento do popover, *labels* específicos
+dos botões de navegação e *hooks* de ciclo de vida do passo.
+
+> A propriedade `content` é a única obrigatória e corresponde ao corpo do popover apresentado ao usuário.
+
+## Propriedades
+
+| Propriedade | Tipo | Opcional | Descrição |
+|---|---|---|---|
+| `align` | `PoUserGuideAlignment` | sim | Alinhamento do popover ao longo do eixo da posição configurada em `position`. |
+| `content` | `string` | não | Conteúdo principal do passo, exibido no corpo do popover. Aceita texto puro ou HTML. |
+| `doneLabel` | `string` | sim | Sobrescreve o *label* do botão "Finalizar" exclusivamente para este passo. |
+| `element` | `string | HTMLElement` | sim | Elemento da página que o passo deve destacar. |
+| `nextLabel` | `string` | sim | Sobrescreve o *label* do botão "Próximo" exclusivamente para este passo. |
+| `onBeforeHighlight` | `(step: PoUserGuideStep, index: number) => void` | sim | Hook* executado imediatamente antes de o passo ser destacado na página, sincronamente à transição. |
+| `onDeselected` | `(step: PoUserGuideStep, index: number) => void` | sim | Hook* executado quando o passo deixa de estar ativo, seja por avanço, retrocesso ou encerramento do tour. |
+| `onHighlighted` | `(step: PoUserGuideStep, index: number) => void` | sim | Hook* executado imediatamente após o passo ser destacado na página. |
+| `position` | `PoUserGuidePosition` | sim | Posição preferida do popover em relação ao elemento destacado. |
+| `previousLabel` | `string` | sim | Sobrescreve o *label* do botão "Anterior" exclusivamente para este passo. |
+| `showButtons` | `Array<'next' | 'previous' | 'close'>` | sim | Lista que filtra quais botões de navegação devem ser exibidos no popover deste passo. |
+| `title` | `string` | sim | Título exibido no cabeçalho do popover do passo. |
+
+
+---
+
+# PoUserGuideStepChangeEvent
+
+**Tipo:** Interface / Modelo
+**Pacote:** `@po-ui/ng-components`
+**Referência:** https://po-ui.io/documentation/po-user-guide-step-change-event
+
+Interface que descreve o evento emitido pelo `PoUserGuideService` a cada mudança de passo durante a execução do tour.
+
+É publicado no `Observable` `PoUserGuideService.stepChangeInterface que descreve o evento emitido pelo `PoUserGuideService` a cada mudança de passo durante a execução do tour.
+
+É publicado no `Observable`  toda vez que o passo ativo é alterado, seja por
+interação do usuário (cliques nos botões "Próximo"/"Anterior" ou navegação por teclado) ou por chamada
+programática aos métodos `next`, `previous`, `goTo` e `start` do `PoUserGuideService`.
+
+As aplicações consumidoras podem assinar `stepChangeInterface que descreve o evento emitido pelo `PoUserGuideService` a cada mudança de passo durante a execução do tour.
+
+É publicado no `Observable` `PoUserGuideService.stepChangeInterface que descreve o evento emitido pelo `PoUserGuideService` a cada mudança de passo durante a execução do tour.
+
+É publicado no `Observable`  toda vez que o passo ativo é alterado, seja por
+interação do usuário (cliques nos botões "Próximo"/"Anterior" ou navegação por teclado) ou por chamada
+programática aos métodos `next`, `previous`, `goTo` e `start` do `PoUserGuideService`.
+
+As aplicações consumidoras podem assinar  para reagir à navegação do usuário, atualizar a
+UI conforme o passo ativo, registrar telemetria de progresso ou disparar lógica de negócio contextual.
+
+## Propriedades
+
+| Propriedade | Tipo | Opcional | Descrição |
+|---|---|---|---|
+| `direction` | `'next' | 'previous' | 'goto' | 'start'` | não | Direção da transição que originou a mudança de passo. |
+| `index` | `number` | não | Índice, com base zero, do passo ativo após a transição. |
+| `step` | `PoUserGuideStep` | não | Passo do tour que se tornou ativo após a transição. |
+| `totalSteps` | `number` | não | Total de passos configurados no tour, equivalente ao tamanho do array passado a `PoUserGuideService.setSteps`. |
 
 
 ---
@@ -15771,4 +15794,51 @@ Define os tipos possíveis para o `PoToasterComponent`.
 | `Information` | Tipo de toaster para mensagens informativas. |
 | `Success` | Tipo de toaster para mensagens de sucesso. |
 | `Warning` | Tipo de toaster para mensagens de atenção. |
+
+
+---
+
+# PoUserGuideAlignment
+
+**Tipo:** Enum
+**Pacote:** `@po-ui/ng-components`
+**Referência:** https://po-ui.io/documentation/po-user-guide-alignment
+
+Enum* que define o alinhamento do popover do tour ao longo do eixo da posição configurada,
+utilizado na propriedade `align` de `PoUserGuideStep`.
+
+> Quando o valor não é informado, é aplicado o padrão `PoUserGuideAlignment.Start`.
+
+## Valores
+
+| Valor | Descrição |
+|---|---|
+| `Start` | O popover é alinhado ao início do eixo da posição (topo ou esquerda, conforme a `PoUserGuidePosition`). |
+| `Center` | O popover é alinhado ao centro do eixo da posição. |
+| `End` | O popover é alinhado ao final do eixo da posição (rodapé ou direita, conforme a `PoUserGuidePosition`). |
+
+
+---
+
+# PoUserGuidePosition
+
+**Tipo:** Enum
+**Pacote:** `@po-ui/ng-components`
+**Referência:** https://po-ui.io/documentation/po-user-guide-position
+
+Enum* que define a posição preferida do popover do tour em relação ao elemento destacado,
+utilizado na propriedade `position` de `PoUserGuideStep`.
+
+> Quando o valor não é informado, é aplicado o padrão `PoUserGuidePosition.Auto`.
+
+## Valores
+
+| Valor | Descrição |
+|---|---|
+| `Top` | O popover é renderizado acima do elemento destacado. |
+| `Right` | O popover é renderizado à direita do elemento destacado. |
+| `Bottom` | O popover é renderizado abaixo do elemento destacado. |
+| `Left` | O popover é renderizado à esquerda do elemento destacado. |
+| `Over` | O popover é renderizado sobreposto ao elemento destacado. |
+| `Auto` | A posição é calculada automaticamente conforme o espaço disponível na viewport. |
 
